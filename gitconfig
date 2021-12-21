@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = japan69@gmail.com
+	name = James Daggart
